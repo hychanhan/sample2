@@ -1,0 +1,56 @@
+hychanhan / sample2 edit watchwatch
+private
+This repository is private. All pages are served over SSL and all pushing and pulling is done over SSH. No one may fork, clone, or view it unless they are added as a member.
+
+Every repository with this icon (private) is private.
+public
+This repository is public. Anyone may fork, clone, or view it.
+
+Every repository with this icon (public) is public.
+Description: 	sample2 test edit
+Homepage: 	Click to edit edit
+Public Clone URL: 	git://github.com/hychanhan/sample2.git
+Give this clone URL to anyone.
+git clone git://github.com/hychanhan/sample2.git
+Your Clone URL: 	
+git@github.com:hychanhan/sample2.git
+Use this clone URL yourself.
+git clone git@github.com:hychanhan/sample2.git
+
+
+
+Global setup:
+
+  Download and install Git
+  git config --global user.email hy.chanhan@gmail.com
+      
+
+Next steps:
+
+  mkdir sample2
+  cd sample2
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:hychanhan/sample2.git
+  git push origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:hychanhan/sample2.git
+  git push origin master
+      
+
+Importing a SVN Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
+
